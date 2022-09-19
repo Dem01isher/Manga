@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325033567238",
+    "project_id": "manga-df861",
+    "storage_bucket": "manga-df861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325033567238:android:f4435abc9acae9da128f87",
+        "android_client_info": {
+          "package_name": "com.metalist.manga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325033567238-c4i6t43knqef028q4rhgpmjfmtkva1jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metalist.manga",
+            "certificate_hash": "03a9c52ce5985c1e5ec7e1fb011d859796a9636d"
+          }
+        },
+        {
+          "client_id": "325033567238-s6k0nve59u743omifbi3vqpadervivt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6QlEqL9NLgQloQA3Gm5Pgijm1ZHFD_kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325033567238-s6k0nve59u743omifbi3vqpadervivt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
